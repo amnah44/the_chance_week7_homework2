@@ -14,6 +14,7 @@
         android:padding="@dimen/paddingNormal"
         android:background="@color/teal_200"
         android:textSize="@dimen/textCaption"
+        android:elevation="@dimen/textShadow"
         />
 
 
